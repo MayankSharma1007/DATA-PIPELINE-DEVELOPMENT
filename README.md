@@ -64,3 +64,7 @@ A Python script (DataPipelineDevelopment.py) containing the complete ETL pipelin
 A CSV file (titanic_processed.csv) with the transformed data.
 
 A serialized preprocessing pipeline (titanic_preprocessor.pkl) for reuse.
+
+# OUTPUT:
+
+<img width="2880" height="1200" alt="Image" src="https://github.com/user-attachments/assets/213af830-7726-4b18-8b35-71e463db24b1" />
